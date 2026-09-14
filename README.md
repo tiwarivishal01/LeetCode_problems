@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0039-combination-sum) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Math
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
