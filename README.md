@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0039-combination-sum) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
