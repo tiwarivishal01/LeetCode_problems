@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
 | ------- |
