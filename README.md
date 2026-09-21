@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1544-make-the-string-great) |
