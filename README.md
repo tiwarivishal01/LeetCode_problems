@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 ## Geometry
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1544-make-the-string-great) |
@@ -187,4 +189,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
