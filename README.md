@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 ## Geometry
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
+| [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1544-make-the-string-great) |
@@ -208,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
