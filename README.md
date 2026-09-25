@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
