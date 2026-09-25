@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
+| [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
