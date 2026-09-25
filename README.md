@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0142-linked-list-cycle-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1052-grumpy-bookstore-owner) |
