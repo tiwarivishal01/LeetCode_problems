@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -258,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
