@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
