@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Geometry
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1544-make-the-string-great) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
