@@ -1,25 +1,22 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        // keeping track of last longst window
+        int longest = 0;
+        unordered_set<char> st;
         int left = 0, right = 0;
-        int n = s.size();
-        int longest = 0, maxi = 0;
-        unordered_map<char, int> mpp;
-        while (right < n) {
-            if (!mpp.contains(s[right])) {
-                mpp[s[right]]++;
-            } else {
-                mpp[s[right]]++;
-                while (mpp[s[right]] > 1) {
-                    mpp[s[left]]--;
-                    left++;
-                }
-            }
-            longest = right - left + 1;
-            maxi = max(maxi, longest);
+        while (right < s.size()) {
 
+            // while window is inavalid
+            while (st.contains(s[right])) {
+                st.erase(s[left]);
+                left++;
+            }
+            st.insert(s[right]);
+            int len = right - left + 1;
+            longest = max(longest, len);
             right++;
         }
-        return maxi;
+        return longest;
     }
 };
