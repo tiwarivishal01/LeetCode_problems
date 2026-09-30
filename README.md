@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0071-simplify-path) |
 | [0187-repeated-dna-sequences](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
