@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0413-arithmetic-slices](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -332,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0187-repeated-dna-sequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
