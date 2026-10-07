@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -349,10 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
