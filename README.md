@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,4 +369,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
