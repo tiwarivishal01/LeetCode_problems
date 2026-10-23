@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
+| [0740-delete-and-earn](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0740-delete-and-earn](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0413-arithmetic-slices) |
+| [0740-delete-and-earn](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0740-delete-and-earn) |
 ## Tree
 |  |
 | ------- |
