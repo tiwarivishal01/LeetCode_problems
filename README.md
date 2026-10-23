@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0413-arithmetic-slices) |
 ## Tree
 |  |
