@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0752-open-the-lock) |
+| [0888-fair-candy-swap](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0888-fair-candy-swap) |
 | [0895-maximum-frequency-stack](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0888-fair-candy-swap](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/0888-fair-candy-swap) |
 | [1552-magnetic-force-between-two-balls](https://github.com/tiwarivishal01/LeetCode_problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
